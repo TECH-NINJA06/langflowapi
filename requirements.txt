@@ -1,0 +1,6 @@
+flask
+swisseph
+datetime
+timezonefinder
+geopy.geocoders
+pytz
